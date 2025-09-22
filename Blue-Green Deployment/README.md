@@ -3,8 +3,8 @@
 
 ---
 
-  ![](./images/vid.mp4)
 
+https://github.com/user-attachments/assets/1ab79db5-d248-48ce-bb7d-1bf2da118573
 
 ---
 
@@ -74,17 +74,5 @@ If any issue occurs with Green version:
 
 ---
 
-### 5. Issues Faced and How They Were Resolved
-
-- **Issue:** Application port mismatch in Express app (3006)  
-  **Solution:** Updated `containerPort` in deployment YAML.  
-
-- **Issue:** Confusion while switching traffic between versions  
-  **Solution:** Used Service selector (`version: blue/green`) for seamless routing.  
-
-- **Issue:** Browser not reflecting updated app immediately  
-  **Solution:** Cleared NodePort cache and re-verified with:  
-  ```bash
-  minikube service <service-name>
 
   
