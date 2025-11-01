@@ -7,9 +7,9 @@
 
 
 
-
+...
 ---
 
 # k8s-Probes
 ---
-### 1.Liveness Probe 
+### 1. Liveness Probe 
