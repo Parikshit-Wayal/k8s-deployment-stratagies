@@ -3,7 +3,8 @@
 ---
 
 ### 1. Blue-Green Deployment
--
+### 2. Canary Deployment
+
 -
 -
 -
