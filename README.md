@@ -8,9 +8,10 @@
 ### 🚀 Deployment Strategies Documentation
 ### 🚀 Deployment Strategies Documentation
 
-* **[Blue-Green Deployment](./k8s-deployment-strategies/Blue-Green%20Deployment)**
-* **[Canary Deployment](./k8s-deployment-strategies/Canary%20Deployment)**
-* **[Liveness Probe](./k8s-deployment-strategies/Liveness%20Probe)**
+
+* **[Blue-Green Deployment](./k8s-deployment-strategies/Blue-GreenDeployment)**
+* **[Canary Deployment](./k8s-deployment-strategies/CanaryDeployment)**
+* **[Liveness Probe](./k8s-deployment-strategies/LivenessProbe)**
 ---
 
 # k8s-Probes
