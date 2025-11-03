@@ -4,13 +4,8 @@
 
 ### 1. Blue-Green Deployment
 ### 2. Canary Deployment
+### 3. Rolling-Updates Deployment
 
--
--
--
--
--
--
 ---
 
 # k8s-Probes
